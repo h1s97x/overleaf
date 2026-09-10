@@ -26,7 +26,7 @@
     "@overleaf/settings": "*",
     "@overleaf/stream-utils": "^0.1.0",
     "async": "^3.2.5",
-    "body-parser": "1.20.4",
+    "body-parser": "1.20.6",
     "bunyan": "^1.8.15",
     "celebrate": "^15.0.3",
     "express": "4.22.1",
