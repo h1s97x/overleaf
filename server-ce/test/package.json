@@ -16,8 +16,8 @@
     "@testing-library/cypress": "10.0.3",
     "@types/adm-zip": "^0.5.7",
     "@types/uuid": "^9.0.8",
-    "adm-zip": "^0.5.12",
-    "body-parser": "1.20.4",
+    "adm-zip": "^0.6.0",
+    "body-parser": "1.20.6",
     "cypress": "13.13.2",
     "cypress-multi-reporters": "^2.0.5",
     "express": "4.22.1",
@@ -25,7 +25,7 @@
     "js-yaml": "^4.1.1",
     "mocha-junit-reporter": "^2.2.1",
     "pdfjs-dist": "^5.1.91",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.2",
     "zod-validation-error": "^4.0.1"
   }
 }
